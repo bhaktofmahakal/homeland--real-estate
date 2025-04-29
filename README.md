@@ -53,6 +53,30 @@ Edit
     ├── sale.php           # Properties for sale
     ├── search.php         # Search results page
     └── README.md          # Project documentation
+## 📸 Screenshots
+
+### 🏠 Home Page  
+![Home](image/homepage.png)
+
+### 🔐 Login Page  
+![Login](image/login.png)
+
+### 📝 Register Page  
+![Register](image/register.png)
+
+### ℹ️ About Page  
+![About](image/about.png)
+
+### 📞 Contact Page  
+![Contact](image/contact.png)
+
+### 👤 Profile  
+![Profile](image/properties.png)
+
+### ⚙️ Admin Dashboard  
+![Admin Dashboard](image/admin.png)
+
+
 ⚙️ Getting Started
 Prerequisites
 
