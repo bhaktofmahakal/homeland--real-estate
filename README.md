@@ -24,11 +24,6 @@
 
 📁 Project Structure
 
-plaintext
-Copy
-Edit
-
-    
     homeland--real-estate/
     ├── admin-panel/       # Admin dashboard and management tools
     ├── auth/              # User authentication scripts
