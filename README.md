@@ -1,6 +1,6 @@
 🏠 Homeland: Real Estate Listing Platform
-  Homeland is a PHP-based real estate listing platform that enables users to browse, search, and view property details. The application includes user authentication, property categorization, and an admin panel 
-  for efficient management.
+
+Homeland is a PHP-based real estate platform that enables users to browse, search, view and book property details. The application includes user authentication, property categorization, and an admin panel for efficient management.
 
     🚀 Features
     User Authentication: Secure login and registration system.
