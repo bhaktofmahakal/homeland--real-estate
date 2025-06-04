@@ -77,9 +77,6 @@
 | 🏠 Home Page        | ![Home](image/homepage.png)                | Main landing page for visitors              |
 | ℹ️ About Page       | ![About](image/about.png)              | Project overview and purpose                |
 | 📩 Contact Page     | ![Contact](image/contact.png)          | User contact form for queries               |
-| 🔐 Login Page       | ![Login](image/login.png)              | Existing users can securely log in          |
-| 📝 Register Page    | ![Register](image/register.png)        | New user registration form                  |
-| 🧾 Book Page        | ![Book](image/book.png)                | Form to book a service or item              |
 | 📆 Property Page     | ![Booking](image/properties.png)          | Displays user's bookings                    |
 | ⚙️ Admin Panel      | ![Admin](image/admin.png)              | Admin dashboard for managing data           |
 | 🛠️ Search Page     | ![Service](image/search.png)          | Lists all available services                |
