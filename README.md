@@ -74,7 +74,7 @@
 
 | Page/Section       | Screenshot                            | Description                                 |
 |--------------------|----------------------------------------|---------------------------------------------|
-| 🏠 Home Page        | ![Home](image/home.png)                | Main landing page for visitors              |
+| 🏠 Home Page        | ![Home](image/homepage.png)                | Main landing page for visitors              |
 | ℹ️ About Page       | ![About](image/about.png)              | Project overview and purpose                |
 | 📩 Contact Page     | ![Contact](image/contact.png)          | User contact form for queries               |
 | 🔐 Login Page       | ![Login](image/login.png)              | Existing users can securely log in          |
