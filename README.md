@@ -151,7 +151,10 @@ This project is licensed under the MIT License.
 📬 Contact
 
 Developer: Utsav Mishra
+
 📧 Email: utsavmishraa005@gmail.com
+
 🌐 GitHub: github.com/bhaktofmahakal
+
 🔗 LinkedIn: linkedin.com/in/utsav-mishra1
 
