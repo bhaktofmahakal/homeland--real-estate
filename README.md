@@ -80,9 +80,9 @@
 | 🔐 Login Page       | ![Login](image/login.png)              | Existing users can securely log in          |
 | 📝 Register Page    | ![Register](image/register.png)        | New user registration form                  |
 | 🧾 Book Page        | ![Book](image/book.png)                | Form to book a service or item              |
-| 📆 Booking Page     | ![Booking](image/booking.png)          | Displays user's bookings                    |
+| 📆 Property Page     | ![Booking](image/properties.png)          | Displays user's bookings                    |
 | ⚙️ Admin Panel      | ![Admin](image/admin.png)              | Admin dashboard for managing data           |
-| 🛠️ Service Page     | ![Service](image/service.png)          | Lists all available services                |
+| 🛠️ Search Page     | ![Service](image/search.png)          | Lists all available services                |
 
 
 ---
