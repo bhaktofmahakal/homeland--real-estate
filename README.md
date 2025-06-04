@@ -39,31 +39,31 @@
 <details>
 <summary>Click to view folder layout</summary>
 
-```bash
-homeland--real-estate/
-├── admin-panel/             # Admin dashboard
-├── auth/                    # Login/Register logic
-├── categories/              # Property categories
-├── config/                  # DB connection
-├── css/                     # Compiled stylesheets
-├── favs/                    # Favorites feature
-├── fonts/                   # Font files
-├── images/                  # UI images
-├── includes/                # Header, footer, etc.
-├── js/                      # JavaScript files
-├── requests/                # API-style requests
-├── scss/                    # Source styling
-├── user/                    # User profile, bookings
-├── 404.php                  # Custom error page
-├── about.php                # About us
-├── contact.php              # Contact form
-├── index.php                # Homepage
-├── price.php                # Price filtering logic
-├── property-details.php     # Property detail view
-├── rent.php                 # Rent listings
-├── sale.php                 # Sale listings
-├── search.php               # Search handler
-└── README.md                # Project documentation
+
+    homeland--real-estate/
+    ├── admin-panel/             # Admin dashboard
+    ├── auth/                    # Login/Register logic
+    ├── categories/              # Property categories
+    ├── config/                  # DB connection
+    ├── css/                     # Compiled stylesheets
+    ├── favs/                    # Favorites feature
+    ├── fonts/                   # Font files
+    ├── images/                  # UI images
+    ├── includes/                # Header, footer, etc.
+    ├── js/                      # JavaScript files
+    ├── requests/                # API-style requests
+    ├── scss/                    # Source styling
+    ├── user/                    # User profile, bookings
+    ├── 404.php                  # Custom error page
+    ├── about.php                # About us
+    ├── contact.php              # Contact form
+    ├── index.php                # Homepage
+    ├── price.php                # Price filtering logic
+    ├── property-details.php     # Property detail view
+    ├── rent.php                 # Rent listings
+    ├── sale.php                 # Sale listings
+    ├── search.php               # Search handler
+    └── README.md                # Project documentation
 
 
 ---
