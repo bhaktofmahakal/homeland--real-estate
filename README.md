@@ -69,15 +69,20 @@
 ---
 
 
-| Page             | Preview                          |
-| ---------------- | -------------------------------- |
-| 🏠 Home Page     | ![Home](image/homepage.png)      |
-| 🔐 Login Page    | ![Login](image/login.png)        |
-| 📝 Register Page | ![Register](image/register.png)  |
-| ℹ️ About Page    | ![About](image/about.png)        |
-| 📞 Contact Page  | ![Contact](image/contact.png)    |
-| 👤 User Profile  | ![Profile](image/properties.png) |
-| ⚙️ Admin Panel   | ![Admin](image/admin.png)        |
+## 📸 Project Screenshots
+
+| Page/Section       | Screenshot                            | Description                                 |
+|--------------------|----------------------------------------|---------------------------------------------|
+| 🏠 Home Page        | ![Home](image/home.png)                | Main landing page for visitors              |
+| ℹ️ About Page       | ![About](image/about.png)              | Project overview and purpose                |
+| 📩 Contact Page     | ![Contact](image/contact.png)          | User contact form for queries               |
+| 🔐 Login Page       | ![Login](image/login.png)              | Existing users can securely log in          |
+| 📝 Register Page    | ![Register](image/register.png)        | New user registration form                  |
+| 🧾 Book Page        | ![Book](image/book.png)                | Form to book a service or item              |
+| 📆 Booking Page     | ![Booking](image/booking.png)          | Displays user's bookings                    |
+| ⚙️ Admin Panel      | ![Admin](image/admin.png)              | Admin dashboard for managing data           |
+| 🛠️ Service Page     | ![Service](image/service.png)          | Lists all available services                |
+
 
 ---
 
