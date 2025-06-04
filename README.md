@@ -65,6 +65,7 @@
     ├── search.php               # Search handler
     └── README.md                # Project documentation
 
+</details>
 
 ---
 
