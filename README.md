@@ -37,7 +37,7 @@
 ## 📁 Project Structure
 
 <details>
-<summary>Click to view folder layout</summary>
+<summary>Click to view</summary>
 
 
     homeland--real-estate/
