@@ -75,7 +75,7 @@
 | Page/Section       | Screenshot                            | Description                                 |
 |--------------------|----------------------------------------|---------------------------------------------|
 | 🏠 Home Page        | ![Home](image/homepage.png)                | Main landing page for visitors              |
-| ℹ️ About Page       | ![About](image/about.png)              | Project overview and purpose                |
+| ℹ️ Request Page       | ![About](image/request.png)              | Project overview and purpose                |
 | 📩 Contact Page     | ![Contact](image/contact.png)          | User contact form for queries               |
 | 📆 Property Page     | ![Booking](image/properties.png)          | Displays user's bookings                    |
 | ⚙️ Admin Panel      | ![Admin](image/admin.png)              | Admin dashboard for managing data           |
